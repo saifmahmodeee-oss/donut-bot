@@ -1,0 +1,8 @@
+{
+  "name": "donut-bot",
+  "version": "1.0.0",
+  "main": "autosell.js",
+  "dependencies": {
+    "bedrock-protocol": "^3.30.0"
+  }
+}
